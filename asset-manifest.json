@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/careerist-frontend/static/css/main.b7298b1d.chunk.css",
+    "main.js": "/careerist-frontend/static/js/main.84fe4a00.chunk.js",
+    "main.js.map": "/careerist-frontend/static/js/main.84fe4a00.chunk.js.map",
+    "runtime-main.js": "/careerist-frontend/static/js/runtime-main.1a353caf.js",
+    "runtime-main.js.map": "/careerist-frontend/static/js/runtime-main.1a353caf.js.map",
+    "static/js/2.2b73b408.chunk.js": "/careerist-frontend/static/js/2.2b73b408.chunk.js",
+    "static/js/2.2b73b408.chunk.js.map": "/careerist-frontend/static/js/2.2b73b408.chunk.js.map",
+    "index.html": "/careerist-frontend/index.html",
+    "static/css/main.b7298b1d.chunk.css.map": "/careerist-frontend/static/css/main.b7298b1d.chunk.css.map",
+    "static/js/2.2b73b408.chunk.js.LICENSE.txt": "/careerist-frontend/static/js/2.2b73b408.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/careerist-frontend/static/media/montserrat-v15-latin-regular.b71748ae.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a353caf.js",
+    "static/js/2.2b73b408.chunk.js",
+    "static/css/main.b7298b1d.chunk.css",
+    "static/js/main.84fe4a00.chunk.js"
+  ]
+}
